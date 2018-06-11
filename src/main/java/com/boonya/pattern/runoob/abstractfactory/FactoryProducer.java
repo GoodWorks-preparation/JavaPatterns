@@ -62,7 +62,7 @@ public class FactoryProducer{
         color1.fill();
 
         //获取颜色为 Green 的对象
-        Color color2 = colorFactory.getColor("Green");
+        Color color2 = colorFactory.getColor("GREEN");
 
         //调用 Green 的 fill 方法
         color2.fill();
