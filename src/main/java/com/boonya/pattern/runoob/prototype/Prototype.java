@@ -2,7 +2,7 @@ package com.boonya.pattern.runoob.prototype;
 
 /**
  * @ClassName: Prototype
- * @Description: TODO(功能描述:原型模式-用于创建重复的对象，同时又能保证性能)
+ * @Description: TODO(功能描述:原型模式-用于创建重复的对象，同时又能保证性能（Cloneable的运用）)
  * @author: pengjunlin
  * @company: 上海势航网络科技有限公司
  * @date 2018-06-06
